@@ -14,13 +14,17 @@
    ```bash
    git clone https://github.com/OlegKochanXset/-Portfolio-
    cd -Portfolio-
+
+   
 Для заглушек:
+
 
 Перейти в папку Stub
 
 Запустить соответствующее Java-приложение
 
 Для скриптов Locust:
+
 
 Перейти в папку Locust_Scripts
 
@@ -29,6 +33,7 @@
 Запустить: locust -f ваш_скрипт.py
 
 Для парсера:
+
 
 Перейти в папку Parser
 
